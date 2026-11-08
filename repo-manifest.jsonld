@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/UKPLab/llm-roleplay/commit/92b3950dc49df78a6ee0ae36f7b6d064921d921a",
       "git:hexsha": "92b3950dc49df78a6ee0ae36f7b6d064921d921a",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T18:48:58.802866+00:00"
     }
   ]
 }
