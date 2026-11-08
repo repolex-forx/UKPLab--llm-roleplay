@@ -1,0 +1,11 @@
+{
+  "org": "UKPLab",
+  "repo": "llm-roleplay",
+  "versions": [
+    {
+      "commit": "92b3950dc49df78a6ee0ae36f7b6d064921d921a",
+      "tag": "",
+      "parsed_at": "2026-11-08T18:48:58.930274+00:00"
+    }
+  ]
+}
